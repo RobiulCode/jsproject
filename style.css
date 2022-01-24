@@ -1,0 +1,17 @@
+body{
+    background-color: #e2e8f0;
+}
+.hr{
+    width: 20%;
+    padding: 2px;
+}
+.project{
+    transition: 0.5s;
+    padding: 0px;
+}
+.project:hover{
+    transform: scale(1.02);
+}  
+.project-img{
+    background-color: #fff;
+}
