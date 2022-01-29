@@ -1,0 +1,5 @@
+.user-list .list-group-item .badge {
+  cursor: pointer !important;
+  padding: 6px;
+  background: #000;
+}
